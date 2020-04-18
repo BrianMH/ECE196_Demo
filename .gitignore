@@ -1,0 +1,5 @@
+# Python related stuff
+__pycache__
+
+# Notebook intrinsic misc
+.ipynb_checkpoints
