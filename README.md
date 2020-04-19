@@ -19,6 +19,8 @@ The presentation that accompanies the above material can be found in the reposit
 - opencv-python-contrib
 - matplotlib
 - numpy > 1.8
+- seaborn
+- sklearn
 - tqdm (Optional)
 
 You can install all of them through **pip** or **conda** if you have Python 3.8. Make sure to use a virtualenv or conda env if you would like to easily remove all of these packages later.
